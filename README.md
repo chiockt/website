@@ -1,1 +1,2 @@
-Hi! This is an useless readme.md file!
+Hi! This is the source code of thomaschiocchetti.de
+Contact me info@thomaschiocchetti.de
