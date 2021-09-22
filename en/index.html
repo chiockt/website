@@ -211,11 +211,36 @@
               aria-hidden="true">&times;</span></button>
           <h2 class="modal-title">Newsletter</h2>
         </div>
-        <form action="https://formsubmit.co/newsletter@thomaschiocchetti.de" method="post">
+        <form action="https://formsubmit.co/newsletter@thomaschiocchetti.de" method="post" id="newsletter">
           <input name="fullname" type="text" class="form-control" id="fullname" placeholder="Name">
           <input name="email" type="text" class="form-control" id="email" placeholder="Email Address">
           <input name="submit" type="submit" class="form-control" id="submit" value="Subscribe Now">
         </form>
+        <script src="https://cdn.jsdelivr.net/npm/airtable@0.11.1/lib/airtable.min.js"></script>
+        <script>
+          $('#newsletter').submit(() => {
+            var base = new Airtable({apiKey: 'keyLtUUCaXXXXXXXXX'}).base('appt4hr3kqdqMSpu0');
+            base('subscribers').create(
+              {
+                "fields": {
+                  "email": "bisumto@gmail.com",
+                  "lang": "it",
+                  "name": "Kevin Delugan"
+                }
+              }, 
+              (err, record) => {
+                if(err){
+                  console.error(err);
+                  return;
+                }
+                console.log(record.getId());
+              }
+            );  
+          });
+        
+        
+        </script>
+
         <p>Thank you!</p>
       </div>
     </div>
