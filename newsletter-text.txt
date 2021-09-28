@@ -1,50 +1,0 @@
---- Grazie per l'iscrizione ---
---IT--
-OGGETTO: Iscrizione Newsletter thomaschiocchetti.de
-TESTO: Ciao _,
-Grazie per esserti iscritto alla newsletter di https://thomaschiocchetti.de!  In allegato trovi l’ultima newsletter. 
-Se vuoi annullare la tua iscrizione rispondi a questa e-mail.
-
---DE--
-OGGETTO: Thomaschiocchetti.de Newsletter-Anmeldung
-TESTO: Hallo _,
-Vielen Dank für Ihre Anmeldung zum https://thomaschiocchetti.de Newsletter!
-
-Anbei finden Sie den aktuellen Newsletter. 
-Wenn Sie sich abmelden möchten, antworten Sie auf diese E-Mail.
-
---EN--
-OGGETTO: Thomaschiocchetti.de Newsletter Subscription
-TESTO:
-Hi _,
-Thank you for subscribing to the https://thomaschiocchetti.de newsletter!
-
-Attached you will find the latest newsletter.
-
-If you want to unsubscribe, reply to this e-mail.
-
---- Nuova newsletter ---
---IT--
-OGGETTO: Salve! Novità su thomaschiocchetti.de!
-TESTO: Ma bondì! In allegato trovi la mia nuova newsletter!  Se vuoi annullare la tua iscrizione rispondi a questa e-mail.
-
---DE--
-OGGETTO: Hallo! Neuigkeiten auf thomaschiocchetti.de!
-TESTO: Hallo! Anbei finden Sie meinen neuen Newsletter.  Wenn Sie sich abmelden möchten, antworten Sie auf diese E-Mail.
-
---EN--
-OGGETTO: Hey! News on thomaschiocchetti.de!
-TESTO: Hi! Attached you will find my new newsletter.  If you want to unsubscribe, reply to this e-mail.
-
---- Annullamento iscrizione ---
---IT--
-OGGETTO: Annullamento Iscrizione
-TESTO: Come da tua richiesta la tua iscrizione alla newsletter di thomaschiocchetti.de è stata annullata.
-
---DE--
-OGGETTO: Newsletter Zurücknahme
-TESTO: Auf Ihren Wunsch hin wurde Ihr Abonnement des Newsletters von thomaschiocchetti.de gekündigt.
-
---EN--
-OGGETTO: Newsletter Unsubscribe
-TESTO: As per your request, your subscription to the thomaschiocchetti.de newsletter has been canceled.
