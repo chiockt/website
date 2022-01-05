@@ -9,3 +9,5 @@ We aim to publish accurate information at all times and will update information 
 We use security measures to protect the contents of the Website from viruses. However, we cannot guarantee that material and downloads from our Website are free from viruses or malicious codes. It is your responsibility to ensure that you have taken precautions to protect your own computer system from virus infections.
 
 Please be aware that this Website contains video messages, reports, audio files, and forward-looking statements that may reflect management's current views and views in relation to future events. These projects and views are only statements and opinions of that person and are subject to risks and uncertainties. We do not intend to update any forward-looking statements and they are made at the date on which they are made. No reliability must be placed on these statements, they are not factual and merely opinions.
+
+Copied from https://thomaschiocchetti.de/legal/copyright
