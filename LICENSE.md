@@ -21,4 +21,4 @@
   <li><a href="https://thomaschiocchetti.de/legal/copyright?utm_source=github&utm_medium=link&utm_campaign=social-campaign" target="_blank">Copyright</a></li>
 </ul>
 
-<p><b>Copyright &copy; 2020-2022 Thomas Chiocchetti. All Rights Reserved.</b></p>
+<p><b>&copy; 2020-2022 Thomas Chiocchetti. All Rights Reserved.</b></p>
