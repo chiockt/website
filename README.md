@@ -11,7 +11,6 @@
 <a href="https://t.me/thomaschiocchetti" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png" width="50px" height="50px"></a>
 <h3 align="left">Useful Links</h3>
 <ul>
-  <li><a href="https://thomaschiocchetti.de/cv?utm_source=github&utm_medium=link&utm_campaign=social-campaign" target="_blank">Curriculum Vitae</a></li>
   <li><a href="https://thomaschiocchetti.de/landing" target="_blank">Landing</a></li>
   <li><a href="https://thomaschiocchetti.de/legal/cookie-policy?utm_source=github&utm_medium=link&utm_campaign=social-campaign" target="_blank">Cookie Policy</a></li>
   <li><a href="https://thomaschiocchetti.de/legal/privacy-policy?utm_source=github&utm_medium=link&utm_campaign=social-campaign" target="_blank">Privacy Policy</a></li>
