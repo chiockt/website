@@ -1,28 +1,29 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html lang="it-IT">
-    <head>  
-            <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-G9KY9T8Q63"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
 
-        gtag('config', 'G-G9KY9T8Q63');
-    </script>   
-        <title>Loading...</title>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login</title>
+  <link rel="stylesheet" href="login-page.css">
+  <script defer src="login-page.js"></script>
+</head>
 
-            <link rel="icon" href="../../../assets/images/logo.png" type="image/x-icon"/>
-            <link rel="shortcut icon" href="../../../assets/images/logo.png" type="image/x-icon"/>
+<body>
+  <main id="main-holder">
+    <h1 id="login-header">Login</h1>
+    
+    <div id="login-error-msg-holder">
+      <p id="login-error-msg">Invalid username <span id="error-msg-second-line">and/or password</span></p>
+    </div>
+    
+    <form id="login-form">
+      <input type="text" name="username" id="username-field" class="login-form-field" placeholder="Username">
+      <input type="password" name="password" id="password-field" class="login-form-field" placeholder="Password">
+      <input type="submit" value="Login" id="login-form-submit">
+    </form>
+  
+  </main>
+</body>
 
-        <meta charset="UTF-8">
-        <meta http-equiv="refresh" content="0; url=https://www.canva.com/design/DAE2u3lRj2Q/L4GEb2R5nhNjNM95BgOJAg/view?utm_content=DAE2u3lRj2Q&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent">
-
-        <script type="text/javascript">
-                window.location.href = "https://www.canva.com/design/DAE2u3lRj2Q/L4GEb2R5nhNjNM95BgOJAg/view?utm_content=DAE2u3lRj2Q&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent"
-        </script>    
-    </head>
-    <body>
-        Se non vieni reindirizzato automaticamente, clicca <a href='https://www.canva.com/design/DAE2u3lRj2Q/L4GEb2R5nhNjNM95BgOJAg/view?utm_content=DAE2u3lRj2Q&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent'>qui</a> per procedere manualmente.
-    </body>
 </html>
