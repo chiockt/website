@@ -8,7 +8,7 @@ loginButton.addEventListener("click", (e) => {
     const password = loginForm.password.value;
 
     if (username === "info@thomaschiocchetti.de" && password === "gino1234") {
-        window.location.replace("https://thomaschiocchetti.de/redirect-to/basilica-di-san-pietro");
+        window.location.replace("https://www.canva.com/design/DAE2u3lRj2Q/L4GEb2R5nhNjNM95BgOJAg/view?utm_content=DAE2u3lRj2Q&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent");
     } else {
         loginErrorMsg.style.opacity = 1;
     }
