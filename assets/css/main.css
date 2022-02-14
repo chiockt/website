@@ -5004,7 +5004,9 @@ Created using IcoMoon - icomoon.io
   position: relative;
   display: block;
   max-width: 100%;
-  opacity: 1; }
+  opacity: 1; 
+  margin: 5%;
+  width: 90%; }
 
 .gallery .cc-porfolio-image figure figcaption {
   position: absolute;
