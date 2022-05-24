@@ -9,42 +9,47 @@
 
 <url>
   <loc>https://thomaschiocchetti.de/</loc>
-  <lastmod>2022-01-15T16:45:13+00:00</lastmod>
+  <lastmod>2022-05-24T20:24:06+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://thomaschiocchetti.de/en/</loc>
-  <lastmod>2022-01-15T16:45:12+00:00</lastmod>
+  <lastmod>2022-05-24T20:24:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://thomaschiocchetti.de/it/</loc>
-  <lastmod>2022-01-15T16:45:13+00:00</lastmod>
+  <lastmod>2022-05-24T20:24:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://thomaschiocchetti.de/de/</loc>
-  <lastmod>2022-01-15T16:45:12+00:00</lastmod>
+  <lastmod>2022-05-24T20:24:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://thomaschiocchetti.de/en/index.html</loc>
-  <lastmod>2022-01-15T16:45:12+00:00</lastmod>
+  <loc>https://thomaschiocchetti.de/legal/impressum</loc>
+  <lastmod>2022-05-24T20:24:06+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://thomaschiocchetti.de/landing/</loc>
-  <lastmod>2022-01-15T16:45:13+00:00</lastmod>
+  <loc>https://thomaschiocchetti.de/legal/privacy-policy</loc>
+  <lastmod>2022-05-24T20:24:06+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://thomaschiocchetti.de/it/index.html</loc>
-  <lastmod>2022-01-15T16:45:13+00:00</lastmod>
+  <loc>https://thomaschiocchetti.de/legal/cookie-policy</loc>
+  <lastmod>2022-05-24T20:24:06+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://thomaschiocchetti.de/en/?utm_source=de-under-maintenance&amp;utm_medium=redirect-link&amp;utm_campaign=internal_traffic</loc>
-  <lastmod>2022-01-15T16:45:12+00:00</lastmod>
+  <loc>https://thomaschiocchetti.de/legal/copyright</loc>
+  <lastmod>2022-05-24T20:24:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thomaschiocchetti.de/special-pages/under-maintenance/</loc>
+  <lastmod>2022-05-24T20:24:06+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
