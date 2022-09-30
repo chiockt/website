@@ -7,4 +7,4 @@
 <a href="mailto:info@thomaschiocchetti.de" target="_blank"><img src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png" width="50px" height="50px"></a>
 &nbsp;&nbsp;
 <a href="https://t.me/thomaschiocchetti" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png" width="50px" height="50px"></a>
-<br><p><b>&copy; 2020-2022 Thomas Chiocchetti. All rights reserved/Alle Rechte vorbehalten.</b></p>
+<p><b>&copy; 2020-2022 Thomas Chiocchetti. All rights reserved/Alle Rechte vorbehalten.</b></p>
