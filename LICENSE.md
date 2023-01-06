@@ -11,4 +11,4 @@
 &nbsp;&nbsp;
 <a href="https://t.me/thomaschiocchetti" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png" width="50px" height="50px"></a>
 
-<p><b>&copy; 2020-2023 Thomas Chiocchetti. All Rights Reserved/Alle Rechte vorbehalten./p>
+<p><b>&copy; 2020-2022 Thomas Chiocchetti. All Rights Reserved/Alle Rechte vorbehalten.</p>
